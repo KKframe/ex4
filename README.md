@@ -1,6 +1,6 @@
 # ex4
 
-A new Flutter project.
+This is homework4 about definding named parameter.
 
 ## Getting Started
 
